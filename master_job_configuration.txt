@@ -1,0 +1,2 @@
+[Job_List]  : job_list.txt
+[Max_Slots] : 8
