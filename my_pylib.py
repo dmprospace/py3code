@@ -1,7 +1,7 @@
 #my_pylib.py
 #########################################################################
 # Module name :  my_pylib.py
-# Description :  My Python Class Library 
+# Description :  My Python Library Classes & Handy Functions 
 # Author      :  Devesh Mohnani   
 # Changes     :  09/30/2018 Initial Version 
 #               Developer   ~    Date    ~   Change
