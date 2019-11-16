@@ -1,10 +1,10 @@
 #multithreaded_job.py
 #########################################################################
 # Module name :  multithreaded_job.py
-# Description :  This is Master Demo Script to run any Jobs  as
-#                  child process 
-#                  - Its a multithreaded script which runs Child Jobs in Parallel
-#                   (where N = number defined SLOTS in Master Configuration)
+# Description :  This is Master Demo Script to run number of Jobs as its child
+#                  - Its a multithreaded script that iterates over a list of M jobs
+#                     and at any given time runs N Jobs in Parallel, until all are done
+#                   ( N = number defined SLOTS in Job Configuration )
 # Author      :  Devesh Mohnani   
 # Changes     : Developer  ~    Date    ~   Change  
 #              Devesh Mohnani   09/26/2018   Initial Version
