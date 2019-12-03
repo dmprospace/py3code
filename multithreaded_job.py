@@ -1,7 +1,7 @@
 #multithreaded_job.py
 #########################################################################
 # Module name :  multithreaded_job.py
-# Description :  This is Wrapper Script to run a number of child Jobs as its child
+# Description :  
 #                  - Its a multithreaded script that iterates over a list of M jobs
 #                     and at any given time runs N Jobs in Parallel, until all are done
 #                   ( N = number defined SLOTS in Job Configuration )
