@@ -13,8 +13,12 @@ My Misc Picks.
 https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PLBcG4_ZAU0vNTP1q-VrFmJB3QNDSsApey
 
 Ned Batchelder (Excellent for nice intricate details)
+
 Loop like a native: while, for, iterators, generators: https://www.youtube.com/watch?v=EnSu9hHGq5o
+
 Facts and Myths about Python names and values - PyCon 2015: https://www.youtube.com/watch?v=_AEJHKGk9ns
+
+Raymond Hettinger: Transforming Code into Beautiful, Idiomatic Python: https://www.youtube.com/watch?v=OSGv2VnC0go
 
 Others: (Not so important)
 
