@@ -293,3 +293,5 @@ if __name__ == '__main__':
     c=[i for i in a for j in b if (i==j)]
 
     print (c)
+    
+    
