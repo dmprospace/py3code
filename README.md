@@ -12,12 +12,16 @@ https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTskrapNbzXhwoFUiLCjG
 My Misc Picks.
 https://www.youtube.com/watch?v=k9TUPpGqYTo&list=PLBcG4_ZAU0vNTP1q-VrFmJB3QNDSsApey
 
+Ned Batchelder (Excellent for nice intricate details)
+Loop like a native: while, for, iterators, generators: https://www.youtube.com/watch?v=EnSu9hHGq5o
+Facts and Myths about Python names and values - PyCon 2015: https://www.youtube.com/watch?v=_AEJHKGk9ns
 
-
-Others: (Not so important
+Others: (Not so important)
 
 James Powell (Mostly OO Python):
 https://www.youtube.com/watch?v=cKPlPJyQrt4&list=PLJsotIV0ZEQDpIIKhT-33qU1WEefRRrBL
 
-Python GUI with KTikinter:
+Python GUI with Tkinter:
 https://www.youtube.com/watch?v=RJB1Ek2Ko_Y&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d
+
+
