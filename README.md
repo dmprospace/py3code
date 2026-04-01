@@ -3,6 +3,11 @@ These files I created while watching python Tutorials
 Most used Python Data Structures:
 
 ![Most used Python Data Structures](./py_data_structures.jpg)
+
+Python: Data Structures - Lists, Tuples, Sets & Dictionaries tutorial
+
+https://www.youtube.com/watch?v=R-HLU9Fl5ug
+
 Basic but good :
 https://www.udemy.com/course/learn-python-3-from-beginner-to-advanced/
 
